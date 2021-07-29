@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d74da9c3-2649-488b-ab07-32c9616f080e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c1ziPmj1fD8PmGpvuyqgrllwSE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wady\PycharmProjects\The_Game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="The_Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab-05-Ball-Bat-Game-Final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="The_Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Lab-05-Ball-Bat-Game-Final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="The_Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Lab-05-Ball-Bat-Game-Final" />
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d74da9c3-2649-488b-ab07-32c9616f080e" name="Default Changelist" comment="" />
+      <created>1589711013110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589711013110</updated>
+      <workItem from="1589711014232" duration="564000" />
+      <workItem from="1589711606197" duration="1792000" />
+      <workItem from="1589713420381" duration="859000" />
+      <workItem from="1589714297239" duration="18000" />
+      <workItem from="1589714425024" duration="649000" />
+      <workItem from="1589749498956" duration="1789000" />
+      <workItem from="1589751315349" duration="1672000" />
+      <workItem from="1589754834682" duration="1771000" />
+      <workItem from="1589756638694" duration="1795000" />
+      <workItem from="1589758459676" duration="1438000" />
+      <workItem from="1589760277468" duration="1801000" />
+      <workItem from="1589762359445" duration="1793000" />
+      <workItem from="1589764185355" duration="1547000" />
+      <workItem from="1589788151039" duration="208000" />
+      <workItem from="1589927894258" duration="1489000" />
+      <workItem from="1589932905957" duration="1820000" />
+      <workItem from="1589934867352" duration="1683000" />
+      <workItem from="1589936704024" duration="1791000" />
+      <workItem from="1589938524261" duration="501000" />
+      <workItem from="1589998371591" duration="1131000" />
+      <workItem from="1589999532912" duration="555000" />
+      <workItem from="1590000113681" duration="1794000" />
+      <workItem from="1590001928962" duration="1793000" />
+      <workItem from="1590003739826" duration="1793000" />
+      <workItem from="1590005556113" duration="1793000" />
+      <workItem from="1590007366529" duration="1730000" />
+      <workItem from="1590009245253" duration="1789000" />
+      <workItem from="1590011052443" duration="1791000" />
+      <workItem from="1590012864050" duration="157000" />
+      <workItem from="1590015675398" duration="1793000" />
+      <workItem from="1590017498823" duration="1794000" />
+      <workItem from="1590019316419" duration="1512000" />
+      <workItem from="1590021121886" duration="1673000" />
+      <workItem from="1590023396512" duration="36000" />
+      <workItem from="1590023432918" duration="665000" />
+      <workItem from="1590104744106" duration="1788000" />
+      <workItem from="1590106554145" duration="1799000" />
+      <workItem from="1590109551272" duration="183000" />
+      <workItem from="1590579494819" duration="1788000" />
+      <workItem from="1590581311743" duration="1789000" />
+      <workItem from="1590583117448" duration="1793000" />
+      <workItem from="1590584927301" duration="1821000" />
+      <workItem from="1590586777018" duration="1807000" />
+      <workItem from="1590588601114" duration="1484000" />
+      <workItem from="1591435796715" duration="92000" />
+      <workItem from="1591474251988" duration="381000" />
+      <workItem from="1591475033071" duration="34000" />
+      <workItem from="1591658738660" duration="379000" />
+      <workItem from="1591659174552" duration="1790000" />
+      <workItem from="1591660985289" duration="569000" />
+      <workItem from="1591886194774" duration="17000" />
+      <workItem from="1592088132016" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/The_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1592088177009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Game$1.coverage" NAME="1 Coverage Results" MODIFIED="1589760897092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/The_Game$Lab_05_Ball_Bat_Game_Final.coverage" NAME="Lab-05-Ball-Bat-Game-Final Coverage Results" MODIFIED="1590581739134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+  </component>
+</project>
